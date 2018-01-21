@@ -17,6 +17,12 @@ namespace _1
             secondname = "Kydyrbaev";
             old = 18;
         }
+        public Student(string s, string h, int a)
+        {
+            firstname = s;
+            secondname = h;
+            old = a;
+        }
         public override string ToString()
         {
             return firstname + " " + secondname + " " + old;
@@ -26,13 +32,13 @@ namespace _1
             static void Main(string[] args)
 
             {
-                Student s = new Student();
-                s.firstname = "Erka";
-                Student s2 = new Student();
-                Console.WriteLine(s2);
+                string s, h;
+                int a;
+                s = Console.ReadLine();
+                h = Console.ReadLine();
+                a = Convert.ToInt32(Console.ReadLine());
+                Student s = new Student(s, h, a);
                 Console.WriteLine(s);
-                Console.ReadKey();
-
             }
         }
     }
