@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\PP2Lab\probny final\2\problem2\bin\Debug\problem2.exe.config
+C:\Users\user\Desktop\PP2Lab\probny final\2\problem2\bin\Debug\problem2.exe
+C:\Users\user\Desktop\PP2Lab\probny final\2\problem2\bin\Debug\problem2.pdb
+C:\Users\user\Desktop\PP2Lab\probny final\2\problem2\obj\Debug\problem2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PP2Lab\probny final\2\problem2\obj\Debug\problem2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PP2Lab\probny final\2\problem2\obj\Debug\problem2.exe
+C:\Users\user\Desktop\PP2Lab\probny final\2\problem2\obj\Debug\problem2.pdb

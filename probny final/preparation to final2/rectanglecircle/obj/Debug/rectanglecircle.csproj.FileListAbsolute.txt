@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\PP2Lab\preparation to final2\rectanglecircle\bin\Debug\rectanglecircle.exe.config
+C:\Users\user\Desktop\PP2Lab\preparation to final2\rectanglecircle\bin\Debug\rectanglecircle.exe
+C:\Users\user\Desktop\PP2Lab\preparation to final2\rectanglecircle\bin\Debug\rectanglecircle.pdb
+C:\Users\user\Desktop\PP2Lab\preparation to final2\rectanglecircle\obj\Debug\rectanglecircle.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PP2Lab\preparation to final2\rectanglecircle\obj\Debug\rectanglecircle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PP2Lab\preparation to final2\rectanglecircle\obj\Debug\rectanglecircle.exe
+C:\Users\user\Desktop\PP2Lab\preparation to final2\rectanglecircle\obj\Debug\rectanglecircle.pdb

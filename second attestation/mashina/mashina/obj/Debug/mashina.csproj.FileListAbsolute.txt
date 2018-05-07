@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\PP2Lab\mashina\mashina\bin\Debug\mashina.exe.config
+C:\Users\user\Desktop\PP2Lab\mashina\mashina\bin\Debug\mashina.exe
+C:\Users\user\Desktop\PP2Lab\mashina\mashina\bin\Debug\mashina.pdb
+C:\Users\user\Desktop\PP2Lab\mashina\mashina\obj\Debug\mashina.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PP2Lab\mashina\mashina\obj\Debug\mashina.Form1.resources
+C:\Users\user\Desktop\PP2Lab\mashina\mashina\obj\Debug\mashina.Properties.Resources.resources
+C:\Users\user\Desktop\PP2Lab\mashina\mashina\obj\Debug\mashina.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PP2Lab\mashina\mashina\obj\Debug\mashina.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PP2Lab\mashina\mashina\obj\Debug\mashina.exe
+C:\Users\user\Desktop\PP2Lab\mashina\mashina\obj\Debug\mashina.pdb

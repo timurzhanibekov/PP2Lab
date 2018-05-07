@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\PP2Lab\probny final\4\problem4\bin\Debug\problem4.exe.config
+C:\Users\user\Desktop\PP2Lab\probny final\4\problem4\bin\Debug\problem4.exe
+C:\Users\user\Desktop\PP2Lab\probny final\4\problem4\bin\Debug\problem4.pdb
+C:\Users\user\Desktop\PP2Lab\probny final\4\problem4\obj\Debug\problem4.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PP2Lab\probny final\4\problem4\obj\Debug\problem4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PP2Lab\probny final\4\problem4\obj\Debug\problem4.exe
+C:\Users\user\Desktop\PP2Lab\probny final\4\problem4\obj\Debug\problem4.pdb

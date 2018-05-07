@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\PP2Lab\Star game\Star game\bin\Debug\Star game.exe.config
+C:\Users\user\Desktop\PP2Lab\Star game\Star game\bin\Debug\Star game.exe
+C:\Users\user\Desktop\PP2Lab\Star game\Star game\bin\Debug\Star game.pdb
+C:\Users\user\Desktop\PP2Lab\Star game\Star game\obj\Debug\Star game.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PP2Lab\Star game\Star game\obj\Debug\Star_game.Form1.resources
+C:\Users\user\Desktop\PP2Lab\Star game\Star game\obj\Debug\Star_game.Properties.Resources.resources
+C:\Users\user\Desktop\PP2Lab\Star game\Star game\obj\Debug\Star game.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PP2Lab\Star game\Star game\obj\Debug\Star game.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PP2Lab\Star game\Star game\obj\Debug\Star game.exe
+C:\Users\user\Desktop\PP2Lab\Star game\Star game\obj\Debug\Star game.pdb
+C:\Users\user\Desktop\PP2Lab\second attestation\Star game\Star game\bin\Debug\Star game.exe.config
+C:\Users\user\Desktop\PP2Lab\second attestation\Star game\Star game\bin\Debug\Star game.exe
+C:\Users\user\Desktop\PP2Lab\second attestation\Star game\Star game\bin\Debug\Star game.pdb
+C:\Users\user\Desktop\PP2Lab\second attestation\Star game\Star game\obj\Debug\Star game.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PP2Lab\second attestation\Star game\Star game\obj\Debug\Star_game.Form1.resources
+C:\Users\user\Desktop\PP2Lab\second attestation\Star game\Star game\obj\Debug\Star_game.Properties.Resources.resources
+C:\Users\user\Desktop\PP2Lab\second attestation\Star game\Star game\obj\Debug\Star game.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PP2Lab\second attestation\Star game\Star game\obj\Debug\Star game.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PP2Lab\second attestation\Star game\Star game\obj\Debug\Star game.exe
+C:\Users\user\Desktop\PP2Lab\second attestation\Star game\Star game\obj\Debug\Star game.pdb

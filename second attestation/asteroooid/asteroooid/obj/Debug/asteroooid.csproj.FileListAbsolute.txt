@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\PP2Lab\asteroooid\asteroooid\bin\Debug\asteroooid.exe.config
+C:\Users\user\Desktop\PP2Lab\asteroooid\asteroooid\bin\Debug\asteroooid.exe
+C:\Users\user\Desktop\PP2Lab\asteroooid\asteroooid\bin\Debug\asteroooid.pdb
+C:\Users\user\Desktop\PP2Lab\asteroooid\asteroooid\obj\Debug\asteroooid.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PP2Lab\asteroooid\asteroooid\obj\Debug\asteroooid.Form1.resources
+C:\Users\user\Desktop\PP2Lab\asteroooid\asteroooid\obj\Debug\asteroooid.Properties.Resources.resources
+C:\Users\user\Desktop\PP2Lab\asteroooid\asteroooid\obj\Debug\asteroooid.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PP2Lab\asteroooid\asteroooid\obj\Debug\asteroooid.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PP2Lab\asteroooid\asteroooid\obj\Debug\asteroooid.exe
+C:\Users\user\Desktop\PP2Lab\asteroooid\asteroooid\obj\Debug\asteroooid.pdb
+C:\Users\user\Desktop\PP2Lab\second attestation\asteroooid\asteroooid\bin\Debug\asteroooid.exe.config
+C:\Users\user\Desktop\PP2Lab\second attestation\asteroooid\asteroooid\bin\Debug\asteroooid.exe
+C:\Users\user\Desktop\PP2Lab\second attestation\asteroooid\asteroooid\bin\Debug\asteroooid.pdb
+C:\Users\user\Desktop\PP2Lab\second attestation\asteroooid\asteroooid\obj\Debug\asteroooid.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PP2Lab\second attestation\asteroooid\asteroooid\obj\Debug\asteroooid.Form1.resources
+C:\Users\user\Desktop\PP2Lab\second attestation\asteroooid\asteroooid\obj\Debug\asteroooid.Properties.Resources.resources
+C:\Users\user\Desktop\PP2Lab\second attestation\asteroooid\asteroooid\obj\Debug\asteroooid.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PP2Lab\second attestation\asteroooid\asteroooid\obj\Debug\asteroooid.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PP2Lab\second attestation\asteroooid\asteroooid\obj\Debug\asteroooid.exe
+C:\Users\user\Desktop\PP2Lab\second attestation\asteroooid\asteroooid\obj\Debug\asteroooid.pdb

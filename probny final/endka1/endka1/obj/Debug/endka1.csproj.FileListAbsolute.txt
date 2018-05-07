@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\PP2Lab\endka1\endka1\bin\Debug\endka1.exe.config
+C:\Users\user\Desktop\PP2Lab\endka1\endka1\bin\Debug\endka1.exe
+C:\Users\user\Desktop\PP2Lab\endka1\endka1\bin\Debug\endka1.pdb
+C:\Users\user\Desktop\PP2Lab\endka1\endka1\obj\Debug\endka1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PP2Lab\endka1\endka1\obj\Debug\endka1.Form1.resources
+C:\Users\user\Desktop\PP2Lab\endka1\endka1\obj\Debug\endka1.Properties.Resources.resources
+C:\Users\user\Desktop\PP2Lab\endka1\endka1\obj\Debug\endka1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PP2Lab\endka1\endka1\obj\Debug\endka1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PP2Lab\endka1\endka1\obj\Debug\endka1.exe
+C:\Users\user\Desktop\PP2Lab\endka1\endka1\obj\Debug\endka1.pdb

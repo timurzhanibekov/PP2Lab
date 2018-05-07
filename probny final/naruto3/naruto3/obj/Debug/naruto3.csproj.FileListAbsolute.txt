@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\PP2Lab\naruto3\naruto3\bin\Debug\naruto3.exe.config
+C:\Users\user\Desktop\PP2Lab\naruto3\naruto3\bin\Debug\naruto3.exe
+C:\Users\user\Desktop\PP2Lab\naruto3\naruto3\bin\Debug\naruto3.pdb
+C:\Users\user\Desktop\PP2Lab\naruto3\naruto3\obj\Debug\naruto3.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PP2Lab\naruto3\naruto3\obj\Debug\naruto3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PP2Lab\naruto3\naruto3\obj\Debug\naruto3.exe
+C:\Users\user\Desktop\PP2Lab\naruto3\naruto3\obj\Debug\naruto3.pdb

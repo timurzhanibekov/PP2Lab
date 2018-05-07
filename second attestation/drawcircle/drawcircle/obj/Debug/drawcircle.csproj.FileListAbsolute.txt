@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\PP2Lab\drawcircle\drawcircle\bin\Debug\drawcircle.exe.config
+C:\Users\user\Desktop\PP2Lab\drawcircle\drawcircle\bin\Debug\drawcircle.exe
+C:\Users\user\Desktop\PP2Lab\drawcircle\drawcircle\bin\Debug\drawcircle.pdb
+C:\Users\user\Desktop\PP2Lab\drawcircle\drawcircle\obj\Debug\drawcircle.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PP2Lab\drawcircle\drawcircle\obj\Debug\drawcircle.Form1.resources
+C:\Users\user\Desktop\PP2Lab\drawcircle\drawcircle\obj\Debug\drawcircle.Properties.Resources.resources
+C:\Users\user\Desktop\PP2Lab\drawcircle\drawcircle\obj\Debug\drawcircle.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PP2Lab\drawcircle\drawcircle\obj\Debug\drawcircle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PP2Lab\drawcircle\drawcircle\obj\Debug\drawcircle.exe
+C:\Users\user\Desktop\PP2Lab\drawcircle\drawcircle\obj\Debug\drawcircle.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\FINAL EXAM Good luck\problem1\problem1\bin\Debug\problem1.exe.config
+C:\Users\user\Desktop\FINAL EXAM Good luck\problem1\problem1\bin\Debug\problem1.exe
+C:\Users\user\Desktop\FINAL EXAM Good luck\problem1\problem1\bin\Debug\problem1.pdb
+C:\Users\user\Desktop\FINAL EXAM Good luck\problem1\problem1\obj\Debug\problem1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FINAL EXAM Good luck\problem1\problem1\obj\Debug\problem1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FINAL EXAM Good luck\problem1\problem1\obj\Debug\problem1.exe
+C:\Users\user\Desktop\FINAL EXAM Good luck\problem1\problem1\obj\Debug\problem1.pdb
